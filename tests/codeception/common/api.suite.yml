@@ -1,0 +1,14 @@
+actor: ApiTester
+modules:
+    enabled:
+        - Asserts
+        - \tests\codeception\common\Helper\Api
+        - \tests\codeception\common\_support\FixtureHelper
+        - PhpBrowser:
+            url: 'http://172.50.10.30:80'
+        - REST:
+            depends: PhpBrowser
+            url: 'http://172.50.10.30:80/index-test.php?r=api/v1'
+        - Yii2:
+            configFile: './../../../common/config/shopandshow/env/test/main.php'
+            part: [orm, email]

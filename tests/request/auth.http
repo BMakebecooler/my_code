@@ -1,0 +1,37 @@
+###Auth by phone
+POST {{host}}/user/auth/?new_theme
+cookie: PHPSESSID=mlh06541ga4hcpvjqnv1jhk3p6; ss_uid=CgEAAlywJPuumFxQAywLAg==; rrpvid=972983395207547
+origin: https://testadmin.shopandshow.ru
+accept-encoding: gzip, deflate, br
+accept-language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+x-requested-with: XMLHttpRequest
+pragma: no-cache
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+content-type: application/x-www-form-urlencoded; charset=UTF-8
+accept: */*
+cache-control: no-cache
+authority: testadmin.shopandshow.ru
+referer: https://testadmin.shopandshow.ru/?new_theme
+dnt: 1
+
+AuthByPhone[identity]=%2B7(981)714-46-00&AuthByPhone[password]=563996&new_theme=&AuthByPhone[rememberMe]=0&AuthByPhone[rememberMe]=1
+###
+
+###Auth by email
+POST {{host}}/user/auth/?new_theme
+cookie: PHPSESSID=mlh06541ga4hcpvjqnv1jhk3p6; ss_uid=CgEAAlywJPuumFxQAywLAg==; rrpvid=972983395207547
+origin: https://testadmin.shopandshow.ru
+accept-encoding: gzip, deflate, br
+accept-language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+x-requested-with: XMLHttpRequest
+pragma: no-cache
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+content-type: application/x-www-form-urlencoded; charset=UTF-8
+accept: */*
+cache-control: no-cache
+authority: testadmin.shopandshow.ru
+referer: https://testadmin.shopandshow.ru/?new_theme
+dnt: 1
+
+AuthByEmail[identity]=%2B7(981)714-46-00&AuthByEmail[password]=563996&new_theme=&AuthByEmail[rememberMe]=0&AuthByEmail[rememberMe]=1
+###

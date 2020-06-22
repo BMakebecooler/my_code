@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sands-192907",
+  "private_key_id": "ba9514b064f2d5f2a5344e0f1db6a98c29b942e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQwAgAct30s0hN\nNplsu1hpwFZ5KpnMaCa/NvgcW/Eh1Y/fDc6nMFlcePRiQcA30Lpr5u2sf9Ngh6ou\nvOmCLSsmz+9oreF65A6Ot/eX7pv6WQKHe8jLlWXkY4U6+/XndZNNX9gg85bFy5vx\n8wrWQP3kMnCyACSqPjvB98A7oqNBs3WuIL5zvh5Y1avVvxJsHN+aMhqrheJUBU3G\nGDIYd5cUGAgSUKiqxpQFJzSOWmQkPqOd5w8cGsa8Umn0cuFKTQYqsxPRzXvprTf/\nnrJ9PLeVBsBPegN3tpiH0KlEkQagXD+xg/It+bg8M7p9zmlL2QYQEl7g8EJLzDrO\nYxYNWcZZAgMBAAECggEALUHc2kANF+7Al6DlPXoWjoLZHJbcVkEkWWNxAjD6w9OZ\nyAmlyoCEdzRwA1du9Yrmx9r+n13tNWnkPxLM62CgkN8W8BJ2pp6H+3AuGT3tiia/\nEiGHpH+k4hGjgmi65O4MPAOyB17YStS8YAXJzS60/MLkxOqcCF7KtOBiSGuXynfZ\nq3iySRxAaxYA7UP6C0S1evRnD+qJqEGOEkbnWcLi3hrXKGVCZFyHV5b1ut0Kaxf2\nOR5OTZkba2FMW5925l+hsZwtP06F6kD26nS0t1mRex+h7+3QJhSyWdUCrQ264SaI\n2L7p0bLpXWnWX1Y7cGuC/dbCwoEo3TRL5638NFn+UwKBgQD/HqAS837/FAf72SjG\nd/9zn+mnLoOXlujRCzT0Ix8CzwvE5TfZRMX72yWzMhlBWaprVFFxD3T6chQ5uFff\nYu+iNIc9EgCb/qVEORnFIQml/zUdD2S6oucqKvYGhktkNYhQpz4qHQL8BiTsCv0j\n94tldhjbqCxYRuMU/T1HU//yywKBgQDReHFZu4g32O9OwpBYaszFgMs9L+t2bPK3\nj1AlU12PBI9X2MuJlDNIWpyAy8b0d1mO/qGwwNBop3OyHVEmNjMFeV3+KZyMTa2s\nT5oxkF9pmw9WTlSUAr+WBwfeQzS58O7MN2th82JVeF3/J8Xu0zpCoB+AHjM6V9eE\nB8Kmo2by6wKBgBb1oJ5T/5fhK57EumCyJ/E18Qc0rm8UC7vUcF2QU5gjHgIIRvBs\nugyielAYMCGreiTSn8m3BGYNojhXmMDn3H0SkSEz344qaqErKmCNSpr/zr3gxsXt\nJzSqTR3lNB++mZf4lSWhGsWnn+cGTiXQf2EQMciC6ArBxmn7KGqk6qHlAoGBAJZP\ny2cMvy70KKVn0JTh7pc7WJxLqreMbo9x850VOWnLZ+Et3MCY7EPbYbq6f8YlbsrB\nxd1EP0kaAFer2fOFqQ8gjGY6DfBQPXQMmyU96Hmrn1HbW63qWviZivffWhKj5Xf9\nvLzJHaMfgLP8InjCcmgk5vXUtgYDys8fknppfxKJAoGAMqBUePbKAluy3c15PAxA\nrezEhXmkv4naOb2pvncDm8IkqQNGCHc1OEfnS3ye3zNoYieuKDjqZK7zHgSFd7F2\n9R4z4bodhhDu66jxLsiZb1M+a3saOSvwAq6VDCzkdHJ9ginqwYdD8KWB0qcV0Oie\nzQ7YqAulPPktPkvz1lDQFkY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sands-analitic@sands-192907.iam.gserviceaccount.com",
+  "client_id": "107133540330936233146",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sands-analitic%40sands-192907.iam.gserviceaccount.com"
+}
